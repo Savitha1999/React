@@ -1,0 +1,29 @@
+th
+{
+    padding: 15px;
+    background-color:  orange;
+    color:blue;   
+}
+
+
+table,
+th,
+tr
+
+{
+    padding: 15px;
+    border: 2px solid green;
+    text-align: center;
+}
+
+table
+{
+    margin-top: 40px;
+    width: 90%;
+}
+
+tr:hover
+{
+    background-color: green;
+    color: white;
+}
